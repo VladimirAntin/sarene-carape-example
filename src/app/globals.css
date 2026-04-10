@@ -1,0 +1,36 @@
+@import 'tailwindcss';
+
+/* Šarene Čarape — živahna, šarena paleta boja */
+@theme {
+    --color-primary: #e91e63;
+    --color-primary-dark: #c2185b;
+    --color-secondary: #9c27b0;
+    --color-secondary-dark: #7b1fa2;
+    --color-accent: #fff8e1;
+    --color-accent-dark: #ffe082;
+
+    /* Rainbow fun colors */
+    --color-fun-yellow: #ffd600;
+    --color-fun-orange: #ff6b35;
+    --color-fun-green: #00c853;
+    --color-fun-blue: #2979ff;
+    --color-fun-red: #ff1744;
+    --color-fun-teal: #00bcd4;
+}
+
+/* Desktop top nav — space for navbar */
+[id] {
+    scroll-margin-top: 5rem;
+}
+
+@media (max-width: 767px) {
+    [id] {
+        scroll-margin-top: 1rem;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+}

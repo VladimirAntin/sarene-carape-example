@@ -1,0 +1,67 @@
+const packages: Package[] = [
+  {
+    title: 'Mali Svet',
+    subtitle: 'Za manje grupe do 15 dece',
+    price: 'od 8.000 RSD',
+    features: [
+      '2h igranja u igraonici',
+      'Sofra sa sokom i voćem',
+      'Osnovna dekoracija',
+      'Pozivnice za goste',
+      'Animator 1h',
+    ],
+    cta: 'Rezervišite',
+    iconName: 'smile',
+    image: 'https://images.pexels.com/photos/1597940/pexels-photo-1597940.jpeg?auto=compress&cs=tinysrgb&w=900',
+  },
+  {
+    title: 'Veseli Svet',
+    subtitle: 'Najpopularniji — do 25 dece',
+    price: 'od 14.000 RSD',
+    priceNote: 'Najpopularnije',
+    features: [
+      '3h igranja u igraonici',
+      'Sofra sa tortom & sokom',
+      'Baloni & dekoracija',
+      'Animator 2h',
+      'DJ muzika',
+      'Foto ugao',
+    ],
+    cta: 'Rezervišite',
+    highlighted: true,
+    iconName: 'sparkles',
+    image: 'https://images.pexels.com/photos/3662763/pexels-photo-3662763.jpeg?auto=compress&cs=tinysrgb&w=900',
+  },
+  {
+    title: 'Super Svet',
+    subtitle: 'Velika proslava — do 40 dece',
+    price: 'od 22.000 RSD',
+    features: [
+      '3h ekskluzivnog igranja',
+      'Premium sofra & torta',
+      'Tematska dekoracija',
+      'Animator & DJ',
+      'Fotograf',
+      'Poklon paketi za goste',
+    ],
+    cta: 'Rezervišite',
+    iconName: 'shieldCheck',
+    image: 'https://images.pexels.com/photos/3887517/pexels-photo-3887517.jpeg?auto=compress&cs=tinysrgb&w=900',
+  },
+  {
+    title: 'VIP Proslava',
+    subtitle: 'Potpuno prilagodjena proslava',
+    price: 'Po dogovoru',
+    features: [
+      'Zatvorena igraonica po zahtevu',
+      'Potpuno prilagodjena dekoracija',
+      'Sve premium usluge',
+      'Privatni animator & DJ',
+    ],
+    cta: 'Kontaktirajte Nas',
+    iconName: 'layers',
+    image: 'https://images.pexels.com/photos/1405528/pexels-photo-1405528.jpeg?auto=compress&cs=tinysrgb&w=900',
+  },
+];
+
+export {packages};
