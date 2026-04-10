@@ -12,10 +12,10 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44', '45-47'],
     colors: ['Višebojne'],
     image:
-      'https://images.pexels.com/photos/6567607/pexels-photo-6567607.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/9050061/pexels-photo-9050061.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/6567607/pexels-photo-6567607.jpeg?auto=compress&cs=tinysrgb&w=800',
-      'https://images.pexels.com/photos/6567608/pexels-photo-6567608.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/9050061/pexels-photo-9050061.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/9050050/pexels-photo-9050050.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     badge: 'Bestseler',
     inStock: true,
@@ -35,10 +35,10 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44'],
     colors: ['Roze', 'Crvena', 'Ljubičasta'],
     image:
-      'https://images.pexels.com/photos/4046316/pexels-photo-4046316.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/1057005/pexels-photo-1057005.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/4046316/pexels-photo-4046316.jpeg?auto=compress&cs=tinysrgb&w=800',
-      'https://images.pexels.com/photos/4046317/pexels-photo-4046317.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/1057005/pexels-photo-1057005.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/6031549/pexels-photo-6031549.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     badge: 'Novo',
     inStock: true,
@@ -58,9 +58,9 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44'],
     colors: ['Višebojne', 'Pastelne'],
     image:
-      'https://images.pexels.com/photos/4063574/pexels-photo-4063574.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/18910081/pexels-photo-18910081.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/4063574/pexels-photo-4063574.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/18910081/pexels-photo-18910081.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     inStock: true,
     featured: false,
@@ -79,9 +79,9 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44', '45-47'],
     colors: ['Neon Miks'],
     image:
-      'https://images.pexels.com/photos/3621123/pexels-photo-3621123.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/9742012/pexels-photo-9742012.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/3621123/pexels-photo-3621123.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/9742012/pexels-photo-9742012.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     badge: 'Ograničeno',
     inStock: true,
@@ -101,9 +101,9 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44', '45-47'],
     colors: ['Tamno Plava'],
     image:
-      'https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/14037350/pexels-photo-14037350.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/14037350/pexels-photo-14037350.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     badge: 'Top Poklon',
     inStock: true,
@@ -123,9 +123,9 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44'],
     colors: ['Zelena'],
     image:
-      'https://images.pexels.com/photos/5709005/pexels-photo-5709005.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/4853035/pexels-photo-4853035.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/5709005/pexels-photo-5709005.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/4853035/pexels-photo-4853035.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     inStock: true,
     featured: false,
@@ -144,9 +144,9 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44'],
     colors: ['Bela', 'Siva', 'Crna'],
     image:
-      'https://images.pexels.com/photos/1536473/pexels-photo-1536473.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/8184720/pexels-photo-8184720.png?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/1536473/pexels-photo-1536473.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/8184720/pexels-photo-8184720.png?auto=compress&cs=tinysrgb&w=800',
     ],
     badge: 'Hit',
     inStock: true,
@@ -166,9 +166,9 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44', '45-47'],
     colors: ['Crvena', 'Žuta'],
     image:
-      'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/5737914/pexels-photo-5737914.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/5737914/pexels-photo-5737914.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     inStock: true,
     featured: false,
@@ -188,9 +188,9 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44', '45-47'],
     colors: ['Crna / Neon'],
     image:
-      'https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/8187661/pexels-photo-8187661.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/8187661/pexels-photo-8187661.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     badge: 'Akcija',
     inStock: true,
@@ -210,9 +210,9 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44'],
     colors: ['Žuta', 'Zelena'],
     image:
-      'https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/15195265/pexels-photo-15195265.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/15195265/pexels-photo-15195265.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     inStock: true,
     featured: false,
@@ -231,9 +231,9 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44', '45-47'],
     colors: ['Narandžasta'],
     image:
-      'https://images.pexels.com/photos/2422588/pexels-photo-2422588.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/10923062/pexels-photo-10923062.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/2422588/pexels-photo-2422588.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/10923062/pexels-photo-10923062.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     badge: 'Sport',
     inStock: true,
@@ -253,9 +253,9 @@ const products: Product[] = [
     sizes: ['36-38', '39-41', '42-44'],
     colors: ['Crvena', 'Plava', 'Zelena'],
     image:
-      'https://images.pexels.com/photos/1303084/pexels-photo-1303084.jpeg?auto=compress&cs=tinysrgb&w=600',
+      'https://images.pexels.com/photos/6533978/pexels-photo-6533978.jpeg?auto=compress&cs=tinysrgb&w=600',
     images: [
-      'https://images.pexels.com/photos/1303084/pexels-photo-1303084.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/6533978/pexels-photo-6533978.jpeg?auto=compress&cs=tinysrgb&w=800',
     ],
     badge: 'Sezone',
     inStock: true,
@@ -268,4 +268,3 @@ const products: Product[] = [
 const categories = ['Sve', 'Prugaste', 'Sa Uzorkom', 'Tematske', 'Sport', 'Sezonske'];
 
 export {products, categories};
-
